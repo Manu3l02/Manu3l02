@@ -1,6 +1,6 @@
 # 👋 Ciao! Sono Manuel.
 
-Sono un programmatore appassionato di sviluppo web e software. Amo creare progetti open-source e imparare nuove tecnologie.
+Sono un programmatore appassionato di sviluppo web e software. Sto attualmente lavorando a progetti personali per migliorare le mie competenze e creare soluzioni utili.
 
 ## 🛠️ Competenze Tecniche
 
