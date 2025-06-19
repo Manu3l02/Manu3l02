@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Ciao! Sono Manuel.
 
-<!--
-**Manu3l02/Manu3l02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sono un programmatore appassionato di sviluppo web e software. Amo creare progetti open-source e imparare nuove tecnologie.
 
-Here are some ideas to get you started:
+## 🛠️ Competenze Tecniche
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌐 Frontend
+- HTML, CSS, JavaScript
+- React
+- Framework CSS: Bootstrap, Bulma
+
+### ⚙️ Backend
+- Java
+- Spring Boot
+- Hibernate
+
+### 🗄️ Database
+- MySQL
+
+## 🚧 Progetti in Corso
+
+🔗 [**Agenda Web App**](https://github.com/tuo-username/agenda-app) *(In sviluppo)*  
+Applicazione per la gestione di task e eventi, con interfaccia semplice e intuitiva.  
+🛠️ *React, Java, Spring Boot, MySQL, Bulma*
+
+## 📫 Contatti
+- 💼 [LinkedIn](https://www.linkedin.com/in/manuel-altavela-358243303/)
+- 📧 manuel.altavela@gmail.com
+
