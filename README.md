@@ -19,7 +19,7 @@ Sono un programmatore appassionato di sviluppo web e software. Sto attualmente l
 
 ## 🚧 Progetti in Corso
 
-🔗 [**Agenda Web App**](https://github.com/tuo-username/agenda-app) *(In sviluppo)*  
+🔗 [**Agenda Web App**](https://github.com/Manu3l02/tasktodo) *(In sviluppo)*  
 Applicazione per la gestione di task e eventi, con interfaccia semplice e intuitiva.  
 🛠️ *React, Java, Spring Boot, MySQL, Bulma*
 
