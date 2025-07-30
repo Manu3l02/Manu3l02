@@ -23,6 +23,10 @@ Sono un programmatore appassionato di sviluppo web e software. Sto attualmente l
 Applicazione per la gestione di task e eventi, con interfaccia semplice e intuitiva.  
 🛠️ *React, Java, Spring Boot, MySQL, Bulma*
 
+🔗 [**MultiThread Downloader**](https://github.com/Manu3l02/multithreaddownloader) *(In sviluppo)*  
+Applicazione per il download con utilizzo di multi-thread.  
+🛠️ *Java, JavaFX, Maven, Git*
+
 ## 📫 Contatti
 - 💼 [LinkedIn](https://www.linkedin.com/in/manuel-altavela-358243303/)
 - 📧 manuel.altavela@gmail.com
